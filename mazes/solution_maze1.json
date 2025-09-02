@@ -1,0 +1,23 @@
+{
+  "team": "TeaMu",
+  "mazeName": "maze1.json",
+  "path": [
+    "R3C2",
+    "R4C2",
+    "R4C3",
+    "R4C4",
+    "R4C5",
+    "R4C6",
+    "R5C6",
+    "R5C7",
+    "R5C8",
+    "R6C8",
+    "R7C8",
+    "R8C8",
+    "R9C8",
+    "R10C8",
+    "R10C9",
+    "R10C10"
+  ],
+  "executionTime": 0.0
+}
